@@ -1,0 +1,53 @@
+.container{
+    width:500px;
+    margin:auto;
+    background-color: oldlace;
+}
+.book-heading{
+    padding-top:20px;
+    text-align: center;
+    font-weight: 400;
+}
+.icon-color{
+    color:mediumslateblue;
+}
+.span-color{
+    color:royalblue;
+}
+.book-form{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.book-form__label{
+    text-align: left;
+}
+.form-control{
+    width:50%;
+    height: 30px;
+    margin-top:5px;
+    margin-bottom:20px;
+}
+.form-button{
+    width:98%;
+    background-color: lightskyblue;
+    border:1px solid #000;
+    height: 30px;
+    
+}
+.form-button:hover{
+    cursor:pointer;
+    transform: translateY(-3px);
+    box-shadow:0 1rem 1rem grey;
+}
+.form-button:active{
+    transform: translateY(-1px);
+    box-shadow: 0 .5rem 1rem grey;
+
+}
+.book-table{
+    width:100%;
+    padding-top:20px;
+}
+.btn{
+    text-decoration: none;
+}
